@@ -25,7 +25,7 @@
 I'm a **MERN Stack developer** from New Delhi, currently pursuing my **B.Tech in Information Technology** — I like turning ideas into full products: auth systems, real-time features, AI integrations, all wired to a database that doesn't fall over.
 
 - 🎓 B.Tech IT, GGSIPU — CGPA **8.0/10**
-- 🧠 **600+ DSA problems** solved · Top **15%** global LeetCode rank
+- 🧠 **800+ DSA problems** solved · Top **8%** global LeetCode rank
 - ⚙️ Comfortable across the **full stack** — from REST APIs to responsive UI
 - 🤖 Enjoy wiring **AI features** into real products, not just toy demos
 - 🚀 Currently open to **Full Stack Developer** roles & internships
