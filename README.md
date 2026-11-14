@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=230&section=header&text=Hey,%20I'm%20Mukul%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MERN%20Full%20Stack%20Developer%20%E2%9A%A1%20AI-Powered%20Web%20Apps&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=B.Tech+IT+%40+GGSIPU+(2023-2027)+%F0%9F%8E%93;600%2B+DSA+Problems+%7C+Top+15%25+LeetCode+%F0%9F%8F%86;JWT+%7C+Socket.IO+%7C+Redis+%7C+AI+Integrations+%F0%9F%A4%96;Open+to+Full+Stack+Developer+Roles+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=B.Tech+IT+%40+GGSIPU+(2023-2027)+%F0%9F%8E%93;800%2B+DSA+Problems+%7C+Top+8%25+LeetCode+%F0%9F%8F%86;JWT+%7C+Socket.IO+%7C+Redis+%7C+AI+Integrations+%F0%9F%A4%96;Open+to+Full+Stack+Developer+Roles+%F0%9F%9A%80" />
 
 <br/>
 
